@@ -59,7 +59,7 @@ A sophisticated web application powered by CrewAI multi-agent system that provid
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/research-reason-assistant.git
+git clone https://github.com/Aashish1403/research-reason-assistant.git
 cd research-reason-assistant
 
 2. **Backend Setup**
